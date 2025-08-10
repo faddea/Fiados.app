@@ -5,7 +5,8 @@ const urlsToCache = [
   '/agregarfiado.html',
   '/verfiado.html',
   '/index.js',
-  '/logo.png',
+  '/logo.192.png',
+  '/logo.512.png',
 ];
 
 self.addEventListener('install', event => {
